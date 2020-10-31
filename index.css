@@ -1,0 +1,93 @@
+body {
+
+	background-color: hsla(50, 33%, 25%, .75);
+	margin: 30px;
+	font-family: Arial;
+}
+
+ h2 {
+
+	text-align: center;
+}
+
+.info {
+
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: auto;
+	border-bottom: 5px solid aquamarine;
+	border-radius: 2px;
+	text-align: center;
+}
+
+.info img {
+
+	display: block;
+	height: 300px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 50px;
+}
+
+.why {
+
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: auto;
+	border-bottom: 5px solid aquamarine;
+	border-radius: 2px;
+}
+
+
+#list li {
+
+	list-style-type: disc;
+}
+
+.best_site {
+
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: auto;
+	border-bottom: 5px solid aquamarine;
+	border-radius: 2px;
+}
+
+#site {
+	display: flex;
+	justify-content: center;
+
+}
+
+#site a {
+	text-decoration: none;
+	color:blue;
+	margin-bottom: 20px;
+}
+
+#site a:visited {
+	color: yellow;
+}
+
+#site a:hover {
+	color: red;
+}
+
+.developing {
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: auto;
+	border-bottom: 5px solid aquamarine;
+	border-radius: 2px;
+}
+
+.expecting {
+	margin-left: auto;
+	height: auto;
+	width: auto;
+}
